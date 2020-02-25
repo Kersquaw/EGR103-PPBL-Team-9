@@ -4,6 +4,7 @@
 % pong ball could be 30 m/s.
 
 %--------------------------------------------------------------------------
+% WRITTED BY DR. JULIE WHITNEY
 % MODIFIED BY TEAM 9 (PING PONG BALLERS) EGR103-003 02/23/20
 % Jason S., Brennen M., Griffin D., William Y., Christian S.
 %--------------------------------------------------------------------------
